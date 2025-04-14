@@ -1,0 +1,1 @@
+# The file /object-detection-app/object-detection-app/tests/__init__.py is intentionally left blank.

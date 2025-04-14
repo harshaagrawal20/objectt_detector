@@ -1,0 +1,3 @@
+[console_scripts]
+object-detection-app = main:main
+

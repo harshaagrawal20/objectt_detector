@@ -1,0 +1,15 @@
+README.md
+setup.py
+src/config/__init__.py
+src/config/settings.py
+src/model/__init__.py
+src/model/zero_shot.py
+src/object_detection_app.egg-info/PKG-INFO
+src/object_detection_app.egg-info/SOURCES.txt
+src/object_detection_app.egg-info/dependency_links.txt
+src/object_detection_app.egg-info/entry_points.txt
+src/object_detection_app.egg-info/requires.txt
+src/object_detection_app.egg-info/top_level.txt
+src/utils/__init__.py
+src/utils/video.py
+src/utils/visualization.py
