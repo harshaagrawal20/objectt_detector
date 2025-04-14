@@ -129,4 +129,4 @@ This project aims to explore the capabilities of zero-shot models in recognizing
 
 ## Video Demonstration
 
-[Link to demo video - Coming soon]
+https://drive.google.com/file/d/1xuDbJ-6WLKKTJ1JaDX6G948ZlD8GeDH-/view?usp=sharing
